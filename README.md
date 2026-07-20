@@ -65,3 +65,64 @@ Para el desarrollo de este proyecto se empleó un flujo de trabajo basado ínteg
 ## Consideraciones técnicas
 
 El proyecto fue realizado utilizando exclusivamente herramientas disponibles en sus planes gratuitos. Algunas funciones, como la importación del audio de ElevenLabs dentro de HeyGen, no estuvieron disponibles debido a las limitaciones del plan utilizado. Como alternativa, se empleó una voz de stock de HeyGen, manteniendo la coherencia con los criterios de aceptación establecidos para la actividad y garantizando una sincronización labial natural.
+
+# Estructura del Repositorio
+
+El repositorio fue organizado siguiendo una estructura simple y clara para facilitar la revisión del proyecto y permitir que cualquier persona pueda comprender rápidamente el flujo de trabajo y acceder a cada uno de los activos utilizados.
+
+```
+RS-TRASLADOS-Y-SERVICIOS
+│
+├── assets/
+│   ├── Avatar_RS_Traslados.png
+│   ├── Audio_ElevenLabs.mp3
+│   └── Musica_RS.mp3
+│
+├── docs/
+│   └── Entrega 4 - Creación de contenido con IA.docx
+│
+├── output/
+│   └── VIDEO RS TRASLADOS Y SERVICIOS.mp4
+│
+└── README.md
+```
+
+## Descripción de cada carpeta
+
+### 📁 assets
+
+Contiene todos los recursos originales utilizados durante la producción del video.
+
+Archivos incluidos:
+
+- **Avatar_RS_Traslados.png:** imagen del Embajador Digital Oficial de RS Traslados y Servicios utilizada para crear el Photo Avatar en HeyGen.
+- **Audio_ElevenLabs.mp3:** locución generada mediante Inteligencia Artificial durante las primeras pruebas del proyecto.
+- **Musica_RS.mp3:** pista musical instrumental utilizada para ambientar el video institucional.
+
+---
+
+### 📁 docs
+
+Incluye la documentación elaborada durante el desarrollo del ejercicio.
+
+Archivo incluido:
+
+- **Entrega 4 - Creación de contenido con IA.docx:** documento que describe el workflow completo, las herramientas utilizadas y las decisiones tomadas durante la producción.
+
+---
+
+### 📁 output
+
+Contiene el resultado final del proyecto.
+
+Archivo incluido:
+
+- **VIDEO RS TRASLADOS Y SERVICIOS.mp4:** video institucional generado en HeyGen con sincronización labial automática, subtítulos, voz mediante IA y ambientación musical.
+
+---
+
+### 📄 README.md
+
+Documento principal del repositorio.
+
+Su objetivo es servir como guía de reproducción del proyecto, describiendo paso a paso el workflow utilizado, las herramientas empleadas, los prompts utilizados y las decisiones técnicas tomadas durante la producción del vocero digital.
