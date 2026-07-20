@@ -162,3 +162,51 @@ De esta manera, el mensaje quedó alineado con la actividad principal de RS Tras
 ## Resultado obtenido
 
 Se obtuvo un guion institucional de aproximadamente 40 segundos, con un tono cálido, humano y cercano, pensado para ser interpretado por un vocero digital mediante Inteligencia Artificial.
+
+# Etapa 2 – Desarrollo del Embajador Digital
+
+Una vez finalizado el guion, se procedió al desarrollo del Embajador Digital Oficial de RS Traslados y Servicios, cuyo objetivo fue representar visualmente los valores de la marca y mantener una identidad consistente durante todo el proyecto.
+
+## Objetivo
+
+Diseñar un personaje fotorealista que transmitiera confianza, cercanía, profesionalismo y empatía, respetando la identidad visual desarrollada en el Módulo 3.
+
+## Desarrollo del personaje
+
+El avatar fue creado mediante Inteligencia Artificial utilizando un prompt diseñado específicamente para representar la identidad institucional de la empresa.
+
+Durante el proceso se realizaron distintas pruebas hasta obtener una imagen con características estables y apropiadas para su posterior animación en HeyGen.
+
+Se buscó un personaje que transmitiera una presencia cálida y profesional, evitando rasgos exagerados o expresiones artificiales que pudieran afectar la credibilidad del mensaje.
+
+Las principales características definidas fueron:
+
+- Hombre adulto de aproximadamente 35 a 40 años.
+- Apariencia argentina y expresión amable.
+- Cabello corto y barba prolija.
+- Mirada directa hacia la cámara.
+- Sonrisa natural.
+- Camisa tipo polo color azul petróleo con el logotipo institucional bordado.
+- Fondo inspirado en el paisaje serrano de San Luis y Córdoba.
+- Iluminación cálida tipo Golden Hour.
+- Estilo fotográfico hiperrealista.
+
+## Optimización para HeyGen
+
+Durante el diseño del personaje también se tuvieron en cuenta las recomendaciones para obtener una mejor animación dentro de HeyGen.
+
+Por este motivo se priorizó:
+
+- rostro completamente visible;
+- mirada centrada hacia la cámara;
+- cabeza en posición neutra;
+- hombros alineados;
+- fondo limpio y con buena separación del personaje;
+- iluminación uniforme sobre el rostro;
+- expresión relajada y natural.
+
+Estas decisiones permitieron mejorar la estabilidad del Photo Avatar y favorecieron una sincronización labial más precisa durante la generación del video.
+
+## Resultado obtenido
+
+Se obtuvo un Embajador Digital institucional consistente, reutilizable para futuras producciones audiovisuales de RS Traslados y Servicios, manteniendo coherencia visual con el Manual de Identidad Visual desarrollado en los módulos anteriores.
