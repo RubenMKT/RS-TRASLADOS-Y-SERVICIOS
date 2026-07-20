@@ -126,3 +126,39 @@ Archivo incluido:
 Documento principal del repositorio.
 
 Su objetivo es servir como guía de reproducción del proyecto, describiendo paso a paso el workflow utilizado, las herramientas empleadas, los prompts utilizados y las decisiones técnicas tomadas durante la producción del vocero digital.
+
+# Workflow de Producción
+
+El desarrollo del vocero digital se organizó siguiendo un proceso secuencial dividido en cinco etapas principales. Cada una de ellas permitió consolidar los activos generados en los módulos anteriores hasta obtener un video institucional consistente con la identidad visual de RS Traslados y Servicios.
+
+---
+
+# Etapa 1 – Preproducción
+
+La primera etapa consistió en planificar el mensaje institucional que comunicaría el vocero digital y preparar todos los recursos necesarios antes de comenzar la producción audiovisual.
+
+## Objetivo
+
+Definir una comunicación clara, cercana y coherente con los valores de la marca.
+
+## Desarrollo del guion
+
+El guion fue desarrollado utilizando ChatGPT y posteriormente ajustado manualmente para adaptarlo al público objetivo de RS Traslados y Servicios.
+
+Durante su construcción se priorizaron los siguientes conceptos:
+
+- acompañamiento
+- inclusión
+- confianza
+- seguridad
+- empatía
+- cercanía
+- respeto por las personas con discapacidad y sus familias
+
+Uno de los principales cambios realizados durante la revisión fue reemplazar referencias generales a turnos médicos por situaciones más representativas del servicio brindado por la empresa, como el acompañamiento hacia terapias, escuelas especiales y centros de rehabilitación.
+
+De esta manera, el mensaje quedó alineado con la actividad principal de RS Traslados y Servicios y reforzó el posicionamiento institucional de la marca.
+
+## Resultado obtenido
+
+Se obtuvo un guion institucional de aproximadamente 40 segundos, con un tono cálido, humano y cercano, pensado para ser interpretado por un vocero digital mediante Inteligencia Artificial.
