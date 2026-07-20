@@ -391,3 +391,51 @@ El proyecto permitió desarrollar un vocero digital institucional completamente 
 Durante el proceso se integraron técnicas de generación de texto, imagen, voz y video para construir una pieza audiovisual coherente con la identidad de RS Traslados y Servicios.
 
 El resultado obtenido demuestra que, mediante una correcta planificación del workflow y una adecuada integración de herramientas de IA, es posible producir contenido institucional de calidad profesional utilizando recursos de acceso gratuito.
+
+# Prompts utilizados
+
+Durante el desarrollo del proyecto se emplearon distintos prompts para construir cada uno de los activos que componen el vocero digital.
+
+Con el objetivo de facilitar la reproducción del workflow y mantener organizado el repositorio, los prompts completos se incluyen como documentación independiente dentro de la carpeta **/prompts**.
+
+La carpeta contiene:
+
+```
+prompts/
+│
+├── Prompt_Guion.md
+├── Prompt_Embajador_Digital.md
+└── Prompt_HeyGen.md
+```
+
+## Prompt 1 – Desarrollo del Guion
+
+Corresponde al proceso de creación del mensaje institucional utilizando ChatGPT.
+
+Incluye la evolución del guion hasta obtener la versión final utilizada durante la producción del video.
+
+---
+
+## Prompt 2 – Desarrollo del Embajador Digital
+
+Documenta el prompt empleado para generar el personaje institucional de RS Traslados y Servicios.
+
+Incluye la descripción física del personaje, iluminación, composición fotográfica, vestimenta, identidad visual y parámetros utilizados para favorecer una correcta animación posterior en HeyGen.
+
+---
+
+## Prompt 3 – Producción en HeyGen
+
+Describe la configuración utilizada para producir el video institucional.
+
+Incluye:
+
+- Photo Avatar
+- configuración del personaje
+- selección de voz
+- sincronización labial
+- subtítulos
+- formato de salida
+- exportación del video
+
+Esta documentación permite reproducir el proyecto respetando el mismo flujo de trabajo desarrollado durante la producción original.
