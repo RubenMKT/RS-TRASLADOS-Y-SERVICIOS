@@ -257,3 +257,76 @@ Esta decisión permitió obtener una sincronización labial más estable y un re
 ## Resultado obtenido
 
 Se obtuvo una narración natural, comprensible y coherente con la identidad de RS Traslados y Servicios, logrando una correcta integración entre voz, expresión facial y movimiento del avatar durante todo el video.
+
+# Etapa 4 – Producción del Video en HeyGen
+
+Con el embajador digital y la locución definidos, se inició la etapa de producción audiovisual utilizando HeyGen AI Studio, herramienta encargada de generar la animación del personaje y sincronizar automáticamente la voz con los movimientos faciales.
+
+## Objetivo
+
+Transformar una imagen estática en un vocero digital capaz de transmitir el mensaje institucional de manera natural, manteniendo una correcta sincronización entre la voz, la expresión facial y los movimientos del personaje.
+
+## Configuración del Avatar
+
+Se utilizó la función **Photo Avatar** de HeyGen, cargando el embajador digital diseñado previamente.
+
+Para favorecer una animación estable se seleccionó una imagen con las siguientes características:
+
+- rostro completamente visible;
+- mirada dirigida hacia la cámara;
+- iluminación uniforme;
+- fondo limpio y sin elementos que interfirieran con el reconocimiento facial;
+- expresión relajada y natural.
+
+Estas condiciones permitieron que la plataforma detectara correctamente los puntos de referencia del rostro y generara una animación más realista.
+
+---
+
+## Configuración de la voz
+
+Inicialmente se intentó utilizar el audio generado en ElevenLabs.
+
+Debido a las limitaciones del plan gratuito de HeyGen, la importación del archivo de audio no estuvo disponible.
+
+Como alternativa se seleccionó la voz de stock **"Argentine Reassuring"**, por ofrecer una pronunciación natural, un tono cálido y una excelente sincronización con el avatar.
+
+Esta decisión permitió mantener la calidad del resultado final respetando las condiciones establecidas para el ejercicio.
+
+---
+
+## Ajustes de sincronización
+
+Para obtener una animación natural se realizaron diferentes pruebas hasta lograr un equilibrio entre la locución y los movimientos del personaje.
+
+Durante este proceso se verificó especialmente:
+
+- correcta sincronización entre labios y voz;
+- movimientos suaves de cabeza;
+- parpadeo natural;
+- contacto visual permanente con la cámara;
+- ritmo pausado de la narración;
+- ausencia de movimientos bruscos o expresiones exageradas.
+
+Se generaron distintas versiones del video hasta obtener una sincronización satisfactoria.
+
+---
+
+## Subtítulos
+
+HeyGen generó automáticamente los subtítulos durante la producción del video.
+
+Luego de revisar el resultado se decidió conservarlos, ya que mejoran la accesibilidad del contenido y facilitan la comprensión del mensaje, especialmente cuando el video se reproduce sin sonido en redes sociales.
+
+---
+
+## Formato de salida
+
+El proyecto fue producido en formato vertical (9:16), pensado para su utilización en plataformas como Instagram Reels, Facebook Reels y TikTok.
+
+La exportación se realizó utilizando el plan gratuito de HeyGen, obteniendo un video en resolución 720p con marca de agua, condición aceptada dentro de los criterios establecidos para la actividad.
+
+## Resultado obtenido
+
+El resultado fue un vocero digital con movimientos naturales, sincronización labial consistente y una comunicación visual alineada con la identidad institucional de RS Traslados y Servicios.
+
+Las pruebas realizadas permitieron comprobar que la correcta elección del avatar, la voz y el ritmo de narración influyen directamente en la naturalidad del resultado final.
