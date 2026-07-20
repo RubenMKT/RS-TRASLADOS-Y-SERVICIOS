@@ -330,3 +330,64 @@ La exportación se realizó utilizando el plan gratuito de HeyGen, obteniendo un
 El resultado fue un vocero digital con movimientos naturales, sincronización labial consistente y una comunicación visual alineada con la identidad institucional de RS Traslados y Servicios.
 
 Las pruebas realizadas permitieron comprobar que la correcta elección del avatar, la voz y el ritmo de narración influyen directamente en la naturalidad del resultado final.
+
+# Etapa 5 – Integración de Música, Exportación y Organización del Proyecto
+
+Finalizada la producción del vocero digital, se realizó la etapa de postproducción y organización de todos los activos generados durante el workflow.
+
+## Integración de la música
+
+Como complemento del mensaje institucional se incorporó una pista musical instrumental de fondo, buscando reforzar la identidad de marca sin competir con la locución del vocero.
+
+Para mantener la claridad del mensaje se ajustó el volumen de la música a un nivel bajo (aproximadamente entre un 15 % y un 20 %), permitiendo que la voz continuara siendo el elemento principal de la comunicación.
+
+---
+
+## Exportación del proyecto
+
+El video fue exportado directamente desde HeyGen utilizando las características disponibles en el plan gratuito.
+
+Configuración de exportación:
+
+- Resolución: 720p
+- Formato: MP4
+- Relación de aspecto: 9:16 (Vertical)
+- Marca de agua: Sí (Plan Gratuito)
+
+Esta configuración cumple con los requisitos establecidos para la actividad y permite su publicación en plataformas como Instagram Reels, Facebook Reels y TikTok.
+
+---
+
+## Organización del repositorio
+
+Todos los recursos utilizados durante el desarrollo fueron organizados dentro del repositorio de GitHub para facilitar su revisión y garantizar la trazabilidad del proyecto.
+
+La estructura final incluye:
+
+- assets (recursos originales)
+- docs (documentación)
+- output (video final)
+- README.md (guía de reproducción)
+
+---
+
+# Resumen del Workflow
+
+| Etapa | Herramienta | Resultado |
+|--------|-------------|-----------|
+| Desarrollo del guion | ChatGPT | Guion institucional |
+| Diseño del embajador digital | IA Generativa | Avatar institucional consistente |
+| Generación de voz | ElevenLabs / HeyGen | Locución con IA |
+| Producción del video | HeyGen | Sincronización labial y animación |
+| Música de fondo | Suno | Ambientación sonora |
+| Organización | GitHub | Repositorio documentado |
+
+---
+
+## Resultado Final
+
+El proyecto permitió desarrollar un vocero digital institucional completamente funcional utilizando herramientas de Inteligencia Artificial en sus versiones gratuitas.
+
+Durante el proceso se integraron técnicas de generación de texto, imagen, voz y video para construir una pieza audiovisual coherente con la identidad de RS Traslados y Servicios.
+
+El resultado obtenido demuestra que, mediante una correcta planificación del workflow y una adecuada integración de herramientas de IA, es posible producir contenido institucional de calidad profesional utilizando recursos de acceso gratuito.
