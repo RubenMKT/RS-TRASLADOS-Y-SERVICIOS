@@ -210,3 +210,50 @@ Estas decisiones permitieron mejorar la estabilidad del Photo Avatar y favorecie
 ## Resultado obtenido
 
 Se obtuvo un Embajador Digital institucional consistente, reutilizable para futuras producciones audiovisuales de RS Traslados y Servicios, manteniendo coherencia visual con el Manual de Identidad Visual desarrollado en los módulos anteriores.
+
+# Etapa 3 – Generación de la Locución mediante Inteligencia Artificial
+
+Con el guion definitivo aprobado y el Embajador Digital desarrollado, se inició la etapa de generación de la locución que acompañaría al avatar durante el video institucional.
+
+## Objetivo
+
+Obtener una narración clara, cálida y natural que transmitiera cercanía y confianza, manteniendo el tono institucional de RS Traslados y Servicios.
+
+## Pruebas realizadas en ElevenLabs
+
+Como primera instancia se utilizó ElevenLabs para generar la locución mediante Inteligencia Artificial.
+
+Durante esta etapa se evaluaron diferentes voces disponibles en el plan gratuito, priorizando aquellas que presentaran:
+
+- pronunciación clara del español;
+- ritmo pausado;
+- entonación natural;
+- tono cercano y profesional.
+
+Las pruebas realizadas permitieron obtener un archivo de audio válido, el cual fue incorporado al repositorio como parte del workflow desarrollado.
+
+## Ajustes durante la producción
+
+Al comenzar la producción del video en HeyGen se detectó una limitación propia del plan gratuito, que no permitía importar el archivo generado en ElevenLabs para realizar la sincronización labial.
+
+Para resolver esta situación se evaluaron las voces de stock disponibles dentro de HeyGen.
+
+Después de varias pruebas se seleccionó la voz **"Argentine Reassuring"**, ya que fue la que mejor representó el estilo comunicacional definido para la marca.
+
+Esta voz presentó varias ventajas:
+
+- pronunciación natural del español;
+- acento argentino;
+- ritmo pausado;
+- tono cálido y profesional;
+- excelente sincronización con el movimiento labial del avatar.
+
+## Decisión final
+
+Aunque inicialmente el proyecto contemplaba utilizar la locución generada en ElevenLabs, la versión definitiva del video fue producida utilizando la voz "Argentine Reassuring" integrada en HeyGen.
+
+Esta decisión permitió obtener una sincronización labial más estable y un resultado audiovisual de mayor calidad, manteniendo el cumplimiento de los criterios de aceptación de la actividad y respetando las limitaciones del plan gratuito utilizado.
+
+## Resultado obtenido
+
+Se obtuvo una narración natural, comprensible y coherente con la identidad de RS Traslados y Servicios, logrando una correcta integración entre voz, expresión facial y movimiento del avatar durante todo el video.
