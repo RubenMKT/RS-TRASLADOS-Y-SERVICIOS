@@ -1,55 +1,49 @@
-RS TRASLADOS Y SERVICIOS – Video Institucional con IA
+README.md
+RS TRASLADOS Y SERVICIOS
+Creación de Vocero Digital Institucional mediante Inteligencia Artificial
 
-Objetivo
+Autor: Rubén Serrano
 
-Desarrollar un video institucional utilizando herramientas de Inteligencia Artificial manteniendo la identidad visual y narrativa de la marca RS Traslados y Servicios.
+Descripción del Proyecto
 
-Herramientas utilizadas
-ChatGPT 5.5
-ElevenLabs
-HeyGen
-Suno
-GitHub}
+Este proyecto documenta el proceso completo de creación de un vocero digital institucional para RS Traslados y Servicios, utilizando exclusivamente herramientas de Inteligencia Artificial disponibles en sus planes gratuitos.
 
-Workflow realizado
-1. Desarrollo del guion
+El objetivo fue desarrollar un avatar consistente con la identidad visual de la marca, capaz de comunicar el mensaje institucional mediante una locución generada por IA, sincronización labial automática y una estética coherente con el Manual de Identidad Visual desarrollado previamente.
 
-Se creó un guion institucional de aproximadamente 45 segundos con tono cercano, profesional y humano.
+Durante el workflow se priorizó la construcción de una identidad visual estable, manteniendo la consistencia del personaje, el tono de comunicación y la ambientación en todas las etapas del proceso.
 
-2. Creación del avatar
+El proyecto fue desarrollado siguiendo un flujo de producción dividido en cinco etapas principales:
 
-Se diseñó un avatar consistente utilizando la identidad visual desarrollada previamente para la marca.
+Preproducción (guion y planificación).
+Desarrollo del embajador digital.
+Producción del avatar en HeyGen.
+Integración de voz, sincronización y música.
+Exportación y organización del repositorio.
 
-3. Generación de voz
+Todo el proceso fue realizado utilizando herramientas de Inteligencia Artificial de acceso gratuito, demostrando que es posible construir un vocero digital profesional sin necesidad de planes pagos.
 
-Inicialmente se generó una voz en ElevenLabs.
+Objetivo del proyecto
 
-Luego, para obtener una mejor sincronización labial, se utilizó la voz "Argentine Reassuring" de HeyGen.
+Diseñar y producir un video institucional protagonizado por un embajador digital consistente con la identidad de RS Traslados y Servicios, integrando generación de imágenes, síntesis de voz, sincronización labial automática y ambientación audiovisual mediante Inteligencia Artificial.
 
-4. Sincronización
+El proyecto busca transmitir los valores centrales de la marca:
 
-El avatar fue configurado como Photo Avatar.
+Confianza.
+Cercanía.
+Profesionalismo.
+Empatía.
+Seguridad.
+Acompañamiento a personas con discapacidad y sus familias.
 
-HeyGen realizó automáticamente:
+Como resultado final se obtuvo un video institucional en formato vertical (9:16), con una duración aproximada de 43 segundos, protagonizado por un avatar fotorealista que mantiene coherencia visual con el Manual de Identidad Visual desarrollado en módulos anteriores.
 
-sincronización labial
-movimientos sutiles de cabeza
-parpadeo natural
-contacto visual
+Resultado esperado
 
-5. Música
+Al finalizar este proyecto se obtuvo:
 
-Se agregó música institucional de fondo con volumen reducido para no competir con la voz que fue creado con la herramienta Suno.
-
-6. Exportación
-
-El video fue exportado desde HeyGen en resolución 1080p utilizando el plan gratuito.
-
-Archivos del repositorio
-Avatar institucional
-Audio generado
-Documento de entrega
-Video final
-Resultado
-
-Se obtuvo un video institucional consistente con la identidad de marca, con sincronización natural, voz generada mediante IA y un avatar visualmente estable.# RS-TRASLADOS-Y-SERVICIOS
+Un embajador digital institucional consistente.
+Un video institucional con sincronización labial natural.
+Voz generada mediante Inteligencia Artificial.
+Música de fondo integrada.
+Identidad visual coherente con la marca.
+Un workflow completamente documentado y reproducible.
