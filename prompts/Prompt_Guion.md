@@ -18,7 +18,7 @@ El cierre debe reforzar la identidad institucional de la marca con un mensaje br
 
 Obtener un guion claro, natural y adecuado para ser interpretado por un vocero digital generado mediante Inteligencia Artificial.
 
-## Guion Final del Video Institucional
+## Guion Final del Video 
 
 **RS Traslados y Servicios**
 
